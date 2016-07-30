@@ -11,3 +11,6 @@ for the [specified](https://github.com/golnarMahani/Dynamic-Programming/blob/mas
 
  1. Random Walk policy
  2. Right action policy
+
+**Reference:**
+Sutton, R. S. and Barto, A. G., "[Reinforcement learning: An introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)," 1998 
